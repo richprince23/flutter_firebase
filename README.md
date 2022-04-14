@@ -1,10 +1,10 @@
 # flutter_firebase
 
-A new Flutter project.
+A simple flutter project that fetches data from firebase firestore and updates its vote count
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a irestore learning project.
 
 A few resources to get you started if this is your first Flutter project:
 
